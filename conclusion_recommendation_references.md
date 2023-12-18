@@ -1,32 +1,13 @@
-# Analysis of Earthquake Occurrences in the Philippines
+## Conclusion and Recommendation
 
-The Pacific Ring of Fire is a region in the Earth where many volcanic eruptions and earthquakes occur. The Philippines is located in the Pacific Ring of Fire and is prone to earthquakes and volcanic eruptions. The purpose of this project is to discover how frequently earthquakes occur in the Philippines every year (Is there a decrease or increase in frequency yearly?). Also to identify the relationship among location, magnitude and focal depth.
+* 
 
-The dataset was sourced from [PHIVOLCS Latest Earthquake Information](https://earthquake.phivolcs.dost.gov.ph/) using [web scraper](https://webscraper.io/), a Google Chrome extension. The data included from 2018 up to 2022.
+## References
+[1] PHIVOLCS Latest Earthquake Information. (n.d.). Philippine Institute of Volcanology and Seismology. Retrieved from https://earthquake.phivolcs.dost.gov.ph/
+[2] Philippine Seismic Network 2022_April.jpg - Google Drive. (n.d.). Google Docs; er Philippine Institute of Volcanology and Seismology. Retrieved from https://drive.google.com/file/d/1UCD4TAGHV_Nby9SBqCRQBSE4J_SHFjl4/view?ts=624eb0fc
+[3] Rafferty, J. P. (2023, February 6). Richter scale. Encyclopedia Britannica. Retrieved from https://www.britannica.com/science/Richter-scale
+[4] Rajasekaran, S.. (2009). Structural Dynamics of Earthquake Engineering - Theory and Application Using MATHEMATICA and MATLAB - 16.12 Earthquake classification. Woodhead Publishing. Retrieved from https://app.knovel.com/hotlink/pdf/id:kt009L17I6/structural-dynamics-earthquake/asian-tsunami-disaster
+[5] Spence, W., Sipkin, S., & Choy, G. (n.d.). Determining the Depth of an Earthquake | U.S. Geological Survey. USGS.Gov | Science for a Changing World. Retrieved from https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake#:~:text=Shallow%20earthquakes%20are%20between%200,earthquakes%20deeper%20than%2070%20km.
+[6] Daintith, John Martin, Elizabeth. (2010). Dictionary of Science (6th Edition) - earth's atmosphere. Oxford University Press. Retrieved from https://app.knovel.com/hotlink/pdf/id:kt007X5XS1/dictionary-science-6th/earths-atmosphere
+[7] Britannica, T. Editors of Encyclopaedia (2022, January 10). Moho. Encyclopedia Britannica. Retrieved from https://www.britannica.com/science/Moho
 
-## Documents
-
-Here are the different files in the project:
-
-* [Raw Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Raw_earthquake.csv) 
-* [Data Processing and Analysis](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_initial.ipynb): The Python code I did for data cleaning, preprocessing and analysis.
-* [Cleaned Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/earthquake_18-22_clean.csv): used for the interactive map
-* [Interactive Map](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_Map.ipynb): The Python code I did for the interactive map.
-* [Conclusions, Recommendations and References](link here)
-
-## Requirements
-
-* [Google Colab](https://research.google.com/colaboratory/) (no download needed)
-OR
-* [Anaconda Distribution for Python](https://www.anaconda.com/download)
-
-## Libraries
-
-Here are the libraries I used for the project:
-
-* [numpy](https://numpy.org/)
-* [pandas](https://pandas.pydata.org/)
-* [plotly](https://plotly.com/python/)
-* [matplotlib](https://matplotlib.org/)
-* [seaborn](https://seaborn.pydata.org/)
-* [datetime](https://docs.python.org/3/library/datetime.html)
