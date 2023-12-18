@@ -9,9 +9,9 @@ The dataset was sourced from [PHIVOLCS Latest Earthquake Information](https://ea
 Here are the different files in the project:
 
 * [Raw Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Raw_earthquake.csv) 
-* [Data Processing and Analysis](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_initial.ipynb): The Python code I did for data cleaning, preprocessing and analysis.
+* Data Processing and Analysis [(link 1)](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_initial.ipynb) [(link 2)](https://colab.research.google.com/drive/1vadLvia68N7SXFOVm802tG613zNsL9g6?usp=sharing): The Python code I did for data cleaning, preprocessing and analysis.
 * [Cleaned Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/earthquake_18-22_clean.csv): used for the interactive map
-* [Interactive Map](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_Map.ipynb): The Python code I did for the interactive map.
+* Interactive Map [(link 1)](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_Map.ipynb) [(link 2)](https://colab.research.google.com/drive/1OITFpeKvb36OrY_YUB5uZ09VUHWgnYAm?usp=drive_link): The Python code I did for the interactive map.
 * [Conclusions, Recommendations and References](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/conclusion_recommendation_references.md)
 
 ## Requirements
