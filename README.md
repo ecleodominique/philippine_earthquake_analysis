@@ -12,7 +12,7 @@ Here are the different files in the project:
 * [Data Processing and Analysis](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_initial.ipynb): The Python code I did for data cleaning, preprocessing and analysis.
 * [Cleaned Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/earthquake_18-22_clean.csv): used for the interactive map
 * [Interactive Map](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_Map.ipynb): The Python code I did for the interactive map.
-* [Conclusions, Recommendations and References](link here)
+* [Conclusions, Recommendations and References](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/conclusion_recommendation_references.md)
 
 ## Requirements
 
