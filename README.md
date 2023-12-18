@@ -8,7 +8,7 @@ The dataset was sourced from [PHIVOLCS Latest Earthquake Information](https://ea
 
 Here are the different files in the project:
 
-* [Raw Dataset](link here) 
+* [Raw Dataset](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Raw_earthquake.csv) 
 * [Data Processing and Analysis](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_initial.ipynb): The Python code I did for data cleaning, preprocessing and analysis.
 * [Cleaned Dataset](link here): used for the interactive map
 * [Interactive Map](https://github.com/ecleodominique/philippine_earthquake_analysis/blob/main/Earthquake_Map.ipynb): The Python code I did for the interactive map.
